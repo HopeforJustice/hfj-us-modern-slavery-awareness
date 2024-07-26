@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"Living with David, Olivia’s dependence on him grew, and they began having sex."},{"start":5555,"text":"They had been living together for a month when local law enforcement started investigating David's online activities,"},{"start":11994,"text":"and an investigator interviewed Olivia."},{"start":14574,"text":"Timid, emotional, and seeming to lack confidence,"},{"start":18107,"text":"Olivia said she knew David talked to other girls online"},{"start":21707,"text":"but had no idea he had been posting nude photos of girls,"},{"start":25562,"text":"most of them under 18, on social media."},{"start":28539,"text":"Olivia continued to live with David, as the investigation into his activities progressed. "}]}]};
+    window.globalLoadJsAsset('story_content/6URkgIT9pLr_transcripts.js', JSON.stringify(data));
+})();

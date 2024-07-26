@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"Aleksander met Masha in a Polish neighborhood in the U.K."},{"start":4713,"text":"At the time, Aleksander was 45 years old,"},{"start":7908,"text":"had been unemployed for several months, and was feeling desperate."},{"start":11980,"text":"Masha lived with her husband in the U.S. and was on a short \r\ntrip to the U.K. when she met Aleksander."},{"start":18277,"text":"When Masha learned Aleksander was \r\nlooking for a job,"},{"start":21609,"text":"she suggested he come work for her family in Georgia. "},{"start":25199,"text":"She said she would pay him well and he could even live with them."},{"start":28836,"text":"Aleksander, ready for a fresh start, jumped at the offer. "},{"start":32816,"text":"Masha agreed to book and pay for his travel."}]}]};
+    window.globalLoadJsAsset('story_content/6ClBRS5acVs_transcripts.js', JSON.stringify(data));
+})();

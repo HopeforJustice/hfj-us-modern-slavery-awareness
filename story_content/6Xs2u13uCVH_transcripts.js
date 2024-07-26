@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"Olivia was just 17 when she met David online."},{"start":4362,"text":"She lived with her mom and spent a lot of time on social media and gaming apps."},{"start":8949,"text":"When David, who was 21, introduced himself to Olivia on a live-stream gaming app"},{"start":14370,"text":"and invited her into private chats,"},{"start":16786,"text":"she didn't hesitate to connect."},{"start":19086,"text":"He would ask her questions, give her attention,"},{"start":21449,"text":"and genuinely seemed to care about getting to know her."},{"start":24790,"text":"What Olivia didn’t know was that she wasn’t the only one David was talking to online—"},{"start":30354,"text":"he frequently invited girls to chat, "},{"start":32780,"text":"actively building relationships with anyone who responded."}]}]};
+    window.globalLoadJsAsset('story_content/6Xs2u13uCVH_transcripts.js', JSON.stringify(data));
+})();

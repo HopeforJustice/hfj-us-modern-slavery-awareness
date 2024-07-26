@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1004,"text":"After several weeks of chatting online, Olivia and David had developed a relationship—"},{"start":6251,"text":"Olivia felt loved by him. "},{"start":8550,"text":"So, when David asked her to share nude pictures of herself, she felt comfortable."},{"start":13037,"text":"And when he asked to meet in person, she agreed."},{"start":16207,"text":"Soon after, they officially started to date."},{"start":19485,"text":"As David’s girlfriend, Olivia became more and more dependent on him,"},{"start":23606,"text":"calling him “Daddy” like he asked, dressing the way he wanted her to,"},{"start":27471,"text":"and always being available for him."},{"start":30080,"text":"After just three months, Olivia agreed to move in with him."}]}]};
+    window.globalLoadJsAsset('story_content/602mDWloMxS_transcripts.js', JSON.stringify(data));
+})();

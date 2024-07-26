@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"When Aleksander arrived in the U.S., Masha took his passport"},{"start":4358,"text":"and demanded he immediately start to work off the money he owed them for the travel expenses."},{"start":9989,"text":"She threatened to turn him into U.S. Immigration and Customs Enforcement if he didn’t comply. "},{"start":15245,"text":"For Aleksander, this meant doing manual labor around the house, 7 days a week."},{"start":20461,"text":"From yard work, to construction, painting, and landscaping, "},{"start":24506,"text":"he was forced to work 12-13 hours each day to pay off his debt."},{"start":29318,"text":"In return, they gave him a mattress on the floor of the bug-infested basement."},{"start":34592,"text":"Overworked, with no money or ability to speak English, and"},{"start":38221,"text":"constantly in fear of arrest for overstaying his Visa, Aleksander became exhausted and depressed."}]}]};
+    window.globalLoadJsAsset('story_content/5Xk59gLptMW_transcripts.js', JSON.stringify(data));
+})();

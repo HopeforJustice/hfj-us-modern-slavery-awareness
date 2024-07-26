@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":160,"text":"We often hear that rescuing is more than just an event."},{"start":4508,"text":"It's a process."},{"start":6080,"text":"And it was a huge victory for labor trafficking prosecution "},{"start":9505,"text":"because the family that exploited Tala"},{"start":12416,"text":"was eventually prosecuted for their actions."},{"start":15360,"text":"It's commonly assumed that just rescuing is enough,"},{"start":18370,"text":"but that's just simply not the case."},{"start":20238,"text":"Without proper legal action,"},{"start":22921,"text":"without holding people accountable for their actions,"},{"start":26000,"text":"we often see people revictimized"},{"start":28872,"text":"or going on and trafficking additional people."},{"start":31488,"text":"So prosecutions are certainly needed in labor trafficking."}]}]};
+    window.globalLoadJsAsset('story_content/6h2htIFVMBn_transcripts.js', JSON.stringify(data));
+})();
